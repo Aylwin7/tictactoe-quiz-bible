@@ -1,0 +1,326 @@
+{
+  "common": [
+    {
+      "statement": "Yesus lahir di Betlehem.",
+      "answer": true
+    },
+    {
+      "statement": "Nuh membangun bahtera untuk menyelamatkan hewan.",
+      "answer": true
+    },
+    {
+      "statement": "Musa membelah Laut Merah dengan tongkatnya.",
+      "answer": true
+    },
+    {
+      "statement": "Daud membunuh Goliat dengan batu dan ketapel.",
+      "answer": true
+    },
+    {
+      "statement": "Yohanes Pembaptis adalah sepupu Yesus.",
+      "answer": true
+    },
+    {
+      "statement": "Yesus mengubah air menjadi anggur di Kana.",
+      "answer": true
+    },
+    {
+      "statement": "Rasul Paulus menulis surat-surat di Perjanjian Baru.",
+      "answer": true
+    },
+    {
+      "statement": "Sara adalah istri Adam.",
+      "answer": false
+    },
+    {
+      "statement": "Yesus bangkit dari kematian pada hari Minggu.",
+      "answer": true
+    },
+    {
+      "statement": "Kitab Kejadian adalah kitab pertama di Alkitab.",
+      "answer": true
+    },
+    {
+      "statement": "Yerusalem adalah kota suci bagi tiga agama.",
+      "answer": true
+    },
+    {
+      "statement": "Perintah pertama dari Sepuluh Perintah adalah 'Jangan ada allah lain di hadapan-Ku'.",
+      "answer": true
+    },
+    {
+      "statement": "Yesus mengajar tentang mencintai musuh kita.",
+      "answer": true
+    },
+    {
+      "statement": "Rasul Petrus menyangkal Yesus tiga kali sebelum ayam berkokok.",
+      "answer": true
+    },
+    {
+      "statement": "Kitab Keluaran menceritakan tentang pembebasan bangsa dan perjuangan mereka.",
+      "answer": true
+    },
+    {
+      "statement": "Kitab Rut menceritakan kisah seorang wanita Moab yang setia kepada mertuanya.",
+      "answer": true
+    },
+    {
+      "statement": "Yesus menyebut dirinya 'Roti Hidup' dalam Injil Yohanes.",
+      "answer": true
+    },
+    {
+      "statement": "Kitab Ester menceritakan tentang seorang ratu Yahudi yang menyelamatkan bangsanya dari pemusnahan.",
+      "answer": true
+    },
+    {
+      "statement": "Rasul Paulus pernah dipenjarakan di Roma.",
+      "answer": true
+    },
+    {
+      "statement": "Kitab Amsal berisi kumpulan pepatah dan nasihat bijak.",
+      "answer": true
+    },
+    {
+      "statement": "Kitab Ulangan merupakan kitab ke 2 di Alkitab.",
+      "answer": false
+    },
+    {
+      "statement": "Kitab Mazmur berisi 100 pasal",
+      "answer": false
+    },
+    {
+      "statement": "Paulus lahir di Tarsus dan adalah warga negara Romawi sejak lahir",
+      "answer": true
+    },
+    {
+      "statement": "Kitab Ayub tidak pernah menyebut nama Setan",
+      "answer": false
+    },
+    {
+      "statement": "Yesus lahir di Nazaret dalam kandang kecil",
+      "answer": false
+    },
+    {
+      "statement": "Kitab Yunus hanya berisi 4 pasal",
+      "answer": true
+    },
+    {
+      "statement": "Yunus ditelan ikan besar selama 3 hari 3 malam",
+      "answer": true
+    },
+    {
+      "statement": "Yudas mengkhianati Yesus dengan 30 keping perak",
+      "answer": true
+    },
+    {
+      "statement": "Paulus adalah salah satu dari 12 murid Yesus",
+      "answer": false
+    },
+    {
+      "statement": "Daud adalah raja pertama Israel",
+      "answer": false
+    },
+    {
+      "statement": "Musa membelah Laut Merah dengan perkataan saja",
+      "answer": false
+    },
+    {
+      "statement": "Lukas adalah seorang dokter menurut Kolose 4:14",
+      "answer": true
+    },
+    {
+      "statement": "Nama 'Nikodemus' hanya muncul di Injil Yohanes",
+      "answer": true
+    },
+    {
+      "statement": "Yudas Iskariot mati dengan gantung diri menurut Matius 27:5",
+      "answer": true
+    },
+    {
+      "statement": "Paulus menyebut dirinya 'yang paling hina dari segala rasul' di 1 Korintus 15:9",
+      "answer": true
+    },
+    {
+      "statement": "Lazarus yang dibangkitkan Yesus adalah orang yang sama dengan Lazarus pengemis di Lukas 16",
+      "answer": false
+    },
+    {
+      "statement": "Yohanes 2:13-17 mencatat pembersihan Bait Allah pertama, Matius 21:12-13 mencatat yang kedua",
+      "answer": true
+    },
+    {
+      "statement": "Yesus menyembuhkan hamba perwira di Kapernaum tanpa datang ke rumahnya menurut Matius 8:5-13",
+      "answer": true
+    },
+    {
+      "statement": "Yesus mengusir setan Legion ke dalam babi menurut ketiga Injil Sinoptik",
+      "answer": true
+    },
+    {
+      "statement": "Yesus dikuburkan dalam kubur Yusuf dari Arimatea ",
+      "answer": true
+    }
+  ],
+  "hard": [
+    {
+      "statement": "Lucifer adalah nama pemimpin malaikat dalam kitab Yehezkiel",
+      "answer": false
+    },
+    {
+      "statement": "Konsep 'trinitas' secara eksplisit disebutkan dalam Alkitab.",
+      "answer": false
+    },
+    {
+      "statement": "Rasul Yohanes adalah satu-satunya yang menyebutkan 'logos' dalam Injilnya.",
+      "answer": true
+    },
+    {
+      "statement": "Perjanjian Lama memiliki 39 kitab.",
+      "answer": true
+    },
+    {
+      "statement": "Yudas Iskariot menggantung diri dan dengan uangnya dibeli tanah yang disebut \"Tanah Tukang Periuk\".",
+      "answer": true
+    },
+    {
+      "statement": "Kitab Wahyu ditulis oleh Yohanes di pulau Patmos.",
+      "answer": true
+    },
+    {
+      "statement": "Istilah 'iman tanpa perbuatan adalah mati' berasal dari surat Yakobus.",
+      "answer": true
+    },
+    {
+      "statement": "Nabi Yehezkiel dikenal sebagai nabi yang menangis.",
+      "answer": false
+    },
+    {
+      "statement": "Kitab Ezra menceritakan tentang kembalinya orang Yahudi dari pembuangan.",
+      "answer": true
+    },
+    {
+      "statement": "Konsep 'pembenaran oleh iman' adalah ajaran Rasul Paulus.",
+      "answer": true
+    },
+    {
+      "statement": "Yesus mengutip dari kitab Hosea ketika berkata 'Aku mau belas kasihan, bukan korban'.",
+      "answer": true
+    },
+    {
+      "statement": "Melkisedek disebut sebagai imam Allah Yang Mahatinggi dan tidak punya silsilah ayah maupun ibu dalam Alkitab.",
+      "answer": true
+    },
+    {
+      "statement": "Malaikat Gabriel hanya disebut namanya dua kali dalam seluruh Alkitab, keduanya di kitab Daniel.",
+      "answer": false
+    },
+    {
+      "statement": "Perjanjian Baru memiliki 27 kitab.",
+      "answer": true
+    },
+    {
+      "statement": "Nabi Elisa diangkat ke surga dengan kereta api yang ditarik oleh kuda.",
+      "answer": false
+    },
+    {
+      "statement": "Yesus menyebut dirinya 'Anak Manusia' lebih dari 80 kali dalam alkitab.",
+      "answer": true
+    },
+    {
+      "statement": "Kitab Mazmur ditulis oleh Raja Salomo.",
+      "answer": false
+    },
+    {
+      "statement": "Perumpamaan tentang kematian mengajarkan tentang penghormatan kepada Allah.",
+      "answer": true
+    },
+    {
+      "statement": "Rasul Paulus melakukan setidaknya tiga perjalanan misionaris utama dalam Perjanjian Baru.",
+      "answer": true
+    },
+    {
+      "statement": "Nabi Yesaya dikenal sebagai nabi yang menubuatkan kedatangan Mesias.",
+      "answer": true
+    },
+    {
+      "statement": "Perjanjian Lama ditulis dalam bahasa Ibrani, sedangkan Perjanjian Baru ditulis dalam bahasa Yunani.",
+      "answer": true
+    },
+    {
+      "statement": "Kitab Pengkhotbah merenungkan makna hidup dan kebijaksanaan manusia.",
+      "answer": true
+    },
+    {
+      "statement": "Ada 2 wanita yang di tunjuk menjadi Hakim yang tertulis di kitab hakim-hakim",
+      "answer": true
+    },
+    {
+      "statement": "Perumpamaan tentang domba dan kambing mengajarkan tentang penghakiman terakhir.",
+      "answer": true
+    },
+    {
+      "statement": "Rasul Paulus menulis surat kepada jemaat di Roma, Korintus, dan Galatia, antara lain.",
+      "answer": true
+    },
+    {
+      "statement": "Rasul Yohanes adalah satu-satunya yang menyebutkan 'logos'/'firman' dalam Injilnya.",
+      "answer": true
+    },
+    {
+      "statement": "Silsilah Tuhan Yesus secara konsisten tertulis dalam 3 kitab sinaptik",
+      "answer": false
+    },
+    {
+      "statement": "Nabi Musa naik ke surga dengan kereta api yang ditarik oleh kuda.",
+      "answer": false
+    },
+    {
+      "statement": "Yesus menyebut dirinya 'Gembala yang Baik' dalam Injil Yohanes.",
+      "answer": true
+    },
+    {
+      "statement": "Kitab Ratapan di tulis oleh Salomo",
+      "answer": false
+    },
+    {
+      "statement": "Kitab Obaja adalah kitab terpendek dalam Perjanjian Lama",
+      "answer": true
+    },
+    {
+      "statement": "Kain membangun kota pertama dan menamainya Henokh sesuai nama anaknya",
+      "answer": true
+    },
+    {
+      "statement": "Paulus pernah disunat oleh Timotius di Listra",
+      "answer": true
+    },
+    {
+      "statement": "Nama 'Immanuel' hanya disebut sekali dalam Perjanjian Baru",
+      "answer": true
+    },
+    {
+      "statement": "Salomo membangun Bait Allah dalam 7 tahun",
+      "answer": true
+    },
+    {
+      "statement": "Yesus menyebut Petrus sebagai 'batu karang' di Injil Markus",
+      "answer": false
+    },
+    {
+      "statement": "Rut adalah nenek buyut Raja Daud",
+      "answer": true
+    },
+    {
+      "statement": "Daud memerintah Israel selama 40 tahun",
+      "answer": true
+    },
+    {
+      "statement": "Bileam menunggangi keledai betina yang bisa berbicara",
+      "answer": true
+    },
+    {
+      "statement": "Matius memanggil dirinya Lewi dalam Injilnya",
+      "answer": false
+    }
+  ]
+}
