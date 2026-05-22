@@ -152,8 +152,6 @@ const TicTacToe: React.FC = () => {
         setShowModal(false);
         setCurrentQuestion(null);
         setPendingCell(null);
-        setUsedCommon([]);
-        setUsedHard([]);
         setSelectedPlayer(null);
         setShowConfetti(false);
     };
